@@ -1,2 +1,2 @@
-# CricketProPLE
-A Premier League Edition of existing CricketPro repo.
+# CricketPro Premier League Edition
+New features added.
